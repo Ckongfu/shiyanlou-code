@@ -1,4 +1,2 @@
 #! /usr/bin/env python3
-print('hello')
-
-print("12313")
+print('test!!!')
